@@ -1,0 +1,6 @@
+1. OS Information: [Your actual OS details]
+2. Processor: [Your actual processor]
+3. RAM: [Amount in GB]
+4. Storage: [Capacity and type]
+5. Three processes to analyze: [Process names/PIDs from your system]
+6. A real PoLP example from your system: [Specific permission/account setup]
