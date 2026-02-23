@@ -34,6 +34,7 @@ https://csrc.nist.gov/glossary/term/discretionary_access_control
 - **Process Name:** macOS Ventura
 - **Process ID (PID):** 11373
 - **Description:**
+-  macOS Ventura, the latest version of the world’s most advanced desktop operating system, which takes the Mac experience to a whole new level. Stage Manager gives Mac users an all-new way to stay focused on the task in front of them while seamlessly switching between apps and windows. Continuity Camera uses iPhone as the webcam on Mac to do things that were never possible before,1 and with Handoff coming to FaceTime, users can start a FaceTime call on their iPhone or iPad and fluidly pass it over to their Mac. Mail and Messages come with great new features that make the apps better than ever, while Safari — the world’s fastest browser on Mac2 — ushers in a passwordless future with passkeys. And with the power and popularity of Apple silicon, and new developer tools in Metal 3, gaming on Mac has never been better.
 
 
 ### Process 2
