@@ -31,17 +31,17 @@ https://csrc.nist.gov/glossary/term/discretionary_access_control
 ## Section 3: Process Analysis
 
 ### Process 1
-- **Process Name:**
-- **Process ID (PID):**
+- **Process Name:** macOS Ventura
+- **Process ID (PID):** 11373
 - **Description:**
 
 
 ### Process 2
-- **Process Name:**
-- **Process ID (PID):**
+- **Process Name:** Google Chrome 
+- **Process ID (PID):** 11793
 - **Description:**
 
 ### Process 3
-- **Process Name:**
-- **Process ID (PID):**
+- **Process Name:** Mail
+- **Process ID (PID):** 11362
 - **Description:**
