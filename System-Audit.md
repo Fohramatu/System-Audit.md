@@ -40,9 +40,18 @@ https://csrc.nist.gov/glossary/term/discretionary_access_control
 ### Process 2
 - **Process Name:** Google Chrome 
 - **Process ID (PID):** 11793
-- **Description:**
+- **Description:** With Chrome browser, you can:
+Get personalized search results that appear instantly as you enter text.
+Synchronize bookmarks and settings across all your devices.
+Use Google Workspace products, such as Google Docs, Sheets, Slides, and more.
+Add to your browser’s functionality with Chrome Web Store extensions, such as photo editors and project-management tools.
 
 ### Process 3
 - **Process Name:** Mail
 - **Process ID (PID):** 11362
 - **Description:**
+- Electronic mail, commonly shortened to “email,” is a communication method that uses electronic devices to deliver messages across computer networks. "Email" refers to both the delivery system and individual messages that are sent and received.
+
+Email has existed in some form since the 1970s, when programmer Ray Tomlinson created a way to transmit messages between computer systems on the Advanced Research Projects Agency Network (ARPANET). Modern forms of email became available for widespread public use with the development of email client software (e.g. Outlook) and web browsers, the latter of which enables users to send and receive messages over the Internet using web-based email clients (e.g. Gmail).
+
+Today, email is one of the most popular methods of digital communication. Its prevalence and security vulnerabilities also make it an appealing vehicle for cyber attacks like phishing, domain spoofing, and business email compromise (BEC).
