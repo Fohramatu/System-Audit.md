@@ -13,11 +13,13 @@
 ## Section 2: Access Control Model
 
 ### Identified Access Control Model
-**Model Type:** 
+**Model Type:** DAC
 
 ### Official Definition
+An access control policy that is enforced over all subjects and objects in an information system where the policy specifies that a subject that has been granted access to information can do one or more of the following: (i) pass the information to other subjects or objects; (ii) grant its privileges to other subjects; (iii) change security attributes on subjects, objects, information systems, or system components; (iv) choose the security attributes to be associated with newly-created or revised objects; or (v) change the rules governing access control. Mandatory access controls restrict this capability.
 **Source:** 
 **Definition:** 
+https://csrc.nist.gov/glossary/term/discretionary_access_control
 
 ### Real-World Example from Your System
 **Example:**
