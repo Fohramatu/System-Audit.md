@@ -35,16 +35,28 @@ https://csrc.nist.gov/glossary/term/discretionary_access_control
 - **Process ID (PID):** 11373
 - **Description:**
 -  macOS Ventura, the latest version of the world’s most advanced desktop operating system, which takes the Mac experience to a whole new level. Stage Manager gives Mac users an all-new way to stay focused on the task in front of them while seamlessly switching between apps and windows. Continuity Camera uses iPhone as the webcam on Mac to do things that were never possible before,1 and with Handoff coming to FaceTime, users can start a FaceTime call on their iPhone or iPad and fluidly pass it over to their Mac. Mail and Messages come with great new features that make the apps better than ever, while Safari — the world’s fastest browser on Mac2 — ushers in a passwordless future with passkeys. And with the power and popularity of Apple silicon, and new developer tools in Metal 3, gaming on Mac has never been better.
+- **Security risk:**
+- Malware & Unpatched Vulnerabilities: Downloading untrusted software or delaying updates could allow malware installation or exploitation of system vulnerabilities.
+- 
+Weak Authentication: Weak passwords could lead to unauthorized access, exposing personal and iCloud data.
+
+Summary: High risk of system compromise, data theft, and unauthorized access.
 
 
 ### Process 2
-- **Process Name:** Google Chrome 
+- **Process Name:** Google Chrome
 - **Process ID (PID):** 11793
 - **Description:** With Chrome browser, you can:
 Get personalized search results that appear instantly as you enter text.
 Synchronize bookmarks and settings across all your devices.
 Use Google Workspace products, such as Google Docs, Sheets, Slides, and more.
 Add to your browser’s functionality with Chrome Web Store extensions, such as photo editors and project-management tools.
+- **Security risk:**
+- Malicious Extensions: Installing extensions with excessive permissions may lead to credential theft or browsing data exposure.
+- 
+Phishing & Outdated Browser: Clicking phishing links or using an outdated Chrome version can result in account takeovers or malware infections.
+
+Summary: High risk of credential theft, session hijacking, and malware infection.
 
 ### Process 3
 - **Process Name:** Mail
@@ -55,3 +67,9 @@ Add to your browser’s functionality with Chrome Web Store extensions, such as 
 Email has existed in some form since the 1970s, when programmer Ray Tomlinson created a way to transmit messages between computer systems on the Advanced Research Projects Agency Network (ARPANET). Modern forms of email became available for widespread public use with the development of email client software (e.g. Outlook) and web browsers, the latter of which enables users to send and receive messages over the Internet using web-based email clients (e.g. Gmail).
 
 Today, email is one of the most popular methods of digital communication. Its prevalence and security vulnerabilities also make it an appealing vehicle for cyber attacks like phishing, domain spoofing, and business email compromise (BEC).
+- **Security risk:**
+- Phishing Emails: Users may be tricked into revealing sensitive information.
+
+Malicious Attachments & Spoofing: Opening harmful attachments or falling for spoofed emails can compromise accounts and lead to fraud.
+
+Summary: Very high risk of email account compromise, identity theft, and business/email fraud.
